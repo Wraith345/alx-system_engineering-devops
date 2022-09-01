@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo --type=d chmod 711
+chmod --type=d 755
