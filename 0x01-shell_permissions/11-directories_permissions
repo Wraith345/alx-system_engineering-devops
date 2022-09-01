@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --type=d 755
+sudo -type d -exec chmod 755 {} \;
